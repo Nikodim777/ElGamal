@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590396458 source:c:\users\ÿ\documents\myprojects\elgamal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
